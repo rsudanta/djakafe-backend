@@ -1,0 +1,27 @@
+{
+  "name": "djakafe-backend",
+  "version": "1.0.0",
+  "description": "API DjaKafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsudanta/djakafe-backend.git"
+  },
+  "author": "M Risqullah Sudanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsudanta/djakafe-backend/issues"
+  },
+  "homepage": "https://github.com/rsudanta/djakafe-backend#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "qs": "^6.10.1"
+  }
+}
