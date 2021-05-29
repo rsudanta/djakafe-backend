@@ -367,7 +367,7 @@ data:37 rdf:type data:kafe;
     data:rating "8/10";
     data:fasilitas "Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate, Es Teh Manis, Es Jeruk, Es Mangga";
-    data:urlFoto "https://lh3.googleusercontent.com/proxy/75Mj8_AuVARkOIECgnshwKjPKeq74RMVYVw5LD3T14fR5MLgMxGRlwkAabpZ9j3OB-6rqcqkdSHXh8MxR7VDRTvnMk_1wd9z1IhT3HROXT6kSuAC0Hx0UMn0RsDZ3g2suwWKeu9amROTkg";
+    data:urlFoto "https://3.bp.blogspot.com/--JbJK6e1tYM/Vm7_G8gCbTI/AAAAAAABIrI/YZ8HpZfEfOs/s1600/CARIBOU%2BCOFFEE-9.JPG";
     .
 
 data:38 rdf:type data:kafe;

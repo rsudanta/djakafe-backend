@@ -34,3 +34,26 @@ module.exports.getKafe = async (req, res) => {
         res.status(400).json(err);
     }
 }
+
+module.exports.getSuggestion = async(req, res)=>{
+    try{
+        // Query data dari connection
+        let djakafe = await connection.getSuggestion(req.query);
+
+        if(!djakafe.bindings.length){
+            return res.status(200).json({
+                data:[],
+                message: "Data tidak ditemukan"
+            });
+        }
+
+        djakafe = djakafe.bindings.map((kafe)=>Format(kafe));
+        res.status(200).json({
+            data: djakafe,
+            message: "Data Seluruh Kafe"
+        })
+
+    }catch(err){
+        res.status(400).json(err);
+    }
+}
