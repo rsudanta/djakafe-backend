@@ -1,7 +1,11 @@
 const axios = require('axios');
 const qs = require('qs');
 
-const DATA_URL = process.env.BASE_URL || "http://localhost:3030";
+//for local access uncomment the code below
+// const DATA_URL = process.env.BASE_URL || "http://localhost:3030"; 
+
+//for production
+const DATA_URL ="http://31.220.62.156:3030";
 
 const headers = {
     'Accept': 'application/sparql-results+json,*/*;q=0.9',
