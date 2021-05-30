@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/salmalifias/djakafe_frontend">
+  <a href="https://github.com/rsudanta/djakafe-backend">
     <img src="https://github.com/salmalifias/djakafe_frontend/blob/main/src/logo/logo.png" alt="Logo" width="100" height="100">
   </a>
 
