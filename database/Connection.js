@@ -14,6 +14,48 @@ const headers = {
 
 exports.getKafe = async(param)=>{
     // Query
+        let searchNama = param.nama;
+        let searchQueryNama = [];
+
+        let searchAlamat = param.alamat;
+        let searchQueryAlamat = [];
+
+        let searchFasilitas = param.fasilitas;
+        let searchQueryFasilitas = [];
+
+        let searchMenu = param.menu;
+        let searchQueryMenu = [];
+
+        if(searchNama != null){
+            let searchNamaSplit = searchNama.split(" ");    
+        
+            for(j in searchNamaSplit){
+                searchQueryNama.push (`regex(?nama,"${searchNamaSplit[j]}", "i")`);
+            }   
+        }
+
+        if(searchAlamat != null){
+            let searchAlamatSplit = searchAlamat.split(" ");    
+        
+            for(j in searchAlamatSplit){
+                searchQueryAlamat.push (`regex(?alamat,"${searchAlamatSplit[j]}", "i")`);
+            }   
+        }
+        if(searchFasilitas != null){
+            let searchFasilitasSplit = searchFasilitas.split(" ");    
+        
+            for(j in searchFasilitasSplit){
+                searchQueryFasilitas.push (`regex(?fasilitas,"${searchFasilitasSplit[j]}", "i")`);
+            }   
+        }
+        if(searchMenu != null){
+            let searchMenuSplit = searchMenu.split(" ");    
+        
+            for(j in searchMenuSplit){
+                searchQueryMenu.push (`regex(?menu,"${searchMenuSplit[j]}", "i")`);
+            }   
+        }
+
     const queryData = {
         query: `PREFIX data: <http://example.com/>
         PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -24,15 +66,15 @@ exports.getKafe = async(param)=>{
             OPTIONAL {?sub data:nama ?nama.}
             OPTIONAL {?sub data:alamat ?alamat.}
             OPTIONAL {?sub data:rating ?rating.}
-            OPTIONAL {?sub data:fasilitas ?fasilitas.}
+            OPTIONAL {?sub data:hasFacilities ?fasilitasID.}
+            OPTIONAL {?fasilitasID data:fasilitas ?fasilitas.}
             OPTIONAL {?sub data:menu ?menu.}
             OPTIONAL {?sub data:urlFoto ?urlFoto.}
-            FILTER regex(?nama, "${param.nama ? param.nama : ''}", "i")
             FILTER regex(?id, "${param.id ? param.id : ''}", "i")
-            FILTER regex(?alamat, "${param.alamat ? param.alamat : ''}", "i")
-            FILTER regex(?rating, "${param.rating ? param.rating : ''}", "i")
-            FILTER regex(?fasilitas, "${param.fasilitas ? param.fasilitas : ''}", "i")
-            FILTER regex(?menu, "${param.menu ? param.menu : ''}", "i")
+            FILTER (${searchQueryNama.length >0 ? searchQueryNama.join(" && ") : '?nama'})
+            FILTER (${searchQueryAlamat.length >0 ? searchQueryAlamat.join(" && ") : '?alamat'})
+            FILTER (${searchQueryFasilitas.length >0 ? searchQueryFasilitas.join(" && ") : '?fasilitas'})
+            FILTER (${searchQueryMenu.length >0 ? searchQueryMenu.join(" && ") : '?menu'})
         }ORDER BY ASC(?nama)`
     };
     try{
@@ -45,6 +87,8 @@ exports.getKafe = async(param)=>{
         return data.results;
     }catch(err){
         res.status(400).json(err);
+        console.log(err);
+
     }
 };
 
@@ -60,7 +104,8 @@ module.exports.getSuggestion = async(param)=>{
             OPTIONAL {?sub data:nama ?nama.}
             OPTIONAL {?sub data:alamat ?alamat.}
             OPTIONAL {?sub data:rating ?rating.}
-            OPTIONAL {?sub data:fasilitas ?fasilitas.}
+            OPTIONAL {?sub data:hasFacilities ?fasilitasID.}
+            OPTIONAL {?fasilitasID data:fasilitas ?fasilitas.}
             OPTIONAL {?sub data:menu ?menu.}
             OPTIONAL {?sub data:urlFoto ?urlFoto.}
             FILTER regex(?fasilitas, "${param.fasilitas ? param.fasilitas : ''}", "i")
@@ -75,5 +120,6 @@ module.exports.getSuggestion = async(param)=>{
             return data.results;
         }catch(err){
             res.status(400).json(err);
+            console.log(err);
         }
     };

@@ -32,6 +32,8 @@ module.exports.getKafe = async (req, res) => {
         }
     }catch(err){
         res.status(400).json(err);
+        console.log(err);
+
     }
 }
 
@@ -55,5 +57,6 @@ module.exports.getSuggestion = async(req, res)=>{
 
     }catch(err){
         res.status(400).json(err);
+        console.log(err);
     }
 }

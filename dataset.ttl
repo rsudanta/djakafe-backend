@@ -6,7 +6,6 @@ data:1 rdf:type data:kafe;
     data:nama "Upnormal Coffee Roasters";
     data:alamat "Jl. Raden Saleh No. 47, Cikini, Menteng, Jakarta Pusat";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/-L-CiR5fUr7YUgmChSPP10LjgNU=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1150812/picture-1542231670.jpg";
     .
@@ -16,7 +15,6 @@ data:2 rdf:type data:kafe;
     data:nama "MONKS";
     data:alamat "Ruko Graha Boulevard Timur, Blok ND1 No. 51. Jl. Boulevard Timur Raya, Kelapa Gading, Jakarta Utara";
     data:rating "10/10";
-    data:fasilitas "Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate, Es Teh Manis, Es Jeruk, Es Mangga";
     data:urlFoto "https://assets-pergikuliner.com/ILe6sb-0OPD7krIdZW92tLnj7pQ=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/794575/picture-1515735672.JPEG";
     .
@@ -26,7 +24,6 @@ data:3 rdf:type data:kafe;
     data:nama "The Garden";
     data:alamat "Ruko Garden House, Blok B No. 27 - 28, Bukit Golf Mediterania. Jl. Pantai Indah Kapuk, Pantai Indah Kapuk, Penjaringan, Jakarta Utara";
     data:rating "8/10";
-    data:fasilitas "Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Mie Ayam, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/Zp4jqn8IDNukogMU_oYPFqVy5nY=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1051014/picture-1535551623.JPG";
     .
@@ -36,7 +33,6 @@ data:4 rdf:type data:kafe;
     data:nama "Giyanti Coffee Roastery";
     data:alamat "Jl. Surabaya No. 20, Menteng, Jakarta Pusat";
     data:rating "8/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair";
     data:menu "Mie Ayam, Mie Yamin, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/MWQxgfrkoN1e4l_cYXj-QYqNDww=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/642704/picture-1502512408.jpg";
     .
@@ -46,7 +42,6 @@ data:5 rdf:type data:kafe;
     data:nama "Phos Coffee & Eatery";
     data:alamat "King Foto. Jl. KH Hasyim Ashari No. 36, Roxy, Jakarta Barat";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, Beanbag, Musholla, Spot Foto";
     data:menu "Pempek, Siomay, Batagor, Jus Alpukat, Jus Jeruk, Jus Melon, Sweet Chocolate Cake, Sweet Cheese Cake, Pizza Slice";
     data:urlFoto "https://assets-pergikuliner.com/gaD6bF9p4SbCeWKLEHxCeyEHjGc=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1220595/picture-1547536441.JPG";
     .
@@ -56,7 +51,6 @@ data:6 rdf:type data:kafe;
     data:nama "Hours Coffee & More";
     data:alamat "Gedung Graha Kita Karya. Jl. Boulevard Bukit Gading Raya No. 1, Kelapa Gading, Jakarta Utara";
     data:rating "10/10";
-    data:fasilitas "Outdoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Taro Milk Tea, Dalgona Coffee, Fish and Chips, Chicken Strips, Hot Wings, Chicken Nuggets";
     data:urlFoto "https://assets-pergikuliner.com/e58gyTFp_mcm0-uxIxzav5ubBYc=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1061055/picture-1536166652.JPG";
     .
@@ -66,7 +60,6 @@ data:7 rdf:type data:kafe;
     data:nama "Samakamu Kopi";
     data:alamat "Jl. Prof Dr Satrio No. 18B, Karet Kuningan, Setiabudi, Jakarta Selatan";
     data:rating "10/10";
-    data:fasilitas "Outdoor Rooftop, Tempat Parkir, Wifi, Stop Kontak, Fresh Grass, Musholla, Spot Foto";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/OTMs3-hs6qq5mqueowPf5_XKVwc=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1284778/picture-1550806667.jpg";
     .
@@ -76,7 +69,6 @@ data:8 rdf:type data:kafe;
     data:nama "Guten Morgen Coffee Lab & Shop";
     data:alamat "Jl. Mandala Utara No. 29C, Tomang, Jakarta Barat";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate, Es Teh Manis, Es Jeruk, Es Mangga";
     data:urlFoto "https://assets-pergikuliner.com/4Zxw9hlFbjoQ9YQSNA5S3CNuzhs=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/511870/picture-1490768024.jpg";
     .
@@ -86,7 +78,6 @@ data:9 rdf:type data:kafe;
     data:nama "C for Cupcakes & Coffee";
     data:alamat "Jl. Pluit Karang Utara No. 52, Muara Karang, Penjaringan, Jakarta Utara";
     data:rating "8/10";
-    data:fasilitas "Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, ";
     data:menu "Mie Ayam, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/-QKkD4hosyywsI47rdv2SuuG8dI=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1098469/picture-1538621083.jpg";
     .
@@ -96,7 +87,6 @@ data:10 rdf:type data:kafe;
     data:nama "Kopi Nalar";
     data:alamat "Jl. Prof Joko Sutono No. 7, Melawai, Kebayoran Baru, Jakarta Selatan";
     data:rating "9/10";
-    data:fasilitas "Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Mie Ayam, Mie Yamin, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/WNoOGsENf0wE-_3kPWBMMdRhNW4=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1175563/picture-1543827828.JPG";
     .
@@ -106,7 +96,6 @@ data:11 rdf:type data:kafe;
     data:nama "Toby's Estate";
     data:alamat "Pondok Indah Mall 2, Lantai Ground. Jl. Metro Pondok Indah, Pondok Indah, Jakarta Selatan";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair";
     data:menu "Pempek, Siomay, Batagor, Jus Alpukat, Jus Jeruk, Jus Melon, Sweet Chocolate Cake, Sweet Cheese Cake, Pizza Slice";
     data:urlFoto "https://assets-pergikuliner.com/65M2APmP-tMok4-2tWWaOZiPZok=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/938174/picture-1527296184.jpg";
     .
@@ -116,7 +105,6 @@ data:12 rdf:type data:kafe;
     data:nama "Ottoman's Coffee Brewers";
     data:alamat "Sopo Del Tower, Lantai Ground. Jl. Mega Kuningan Barat III, Kuningan, Jakarta Selatan";
     data:rating "7/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, Beanbag, Musholla, Spot Foto";
     data:menu "Taro Milk Tea, Dalgona Coffee, Fish and Chips, Chicken Strips, Hot Wings, Chicken Nuggets";
     data:urlFoto "https://assets-pergikuliner.com/tJfduKhSdpEeMiilUpn1_fHwZm4=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/914312/picture-1525751132.JPG";
     .
@@ -126,7 +114,6 @@ data:13 rdf:type data:kafe;
     data:nama "Lucky Cat Coffee & Kitchen";
     data:alamat "Plaza Festival, Lantai Upper Ground. Jl. HR Rasuna Said, Kuningan, Jakarta Selatan";
     data:rating "8/10";
-    data:fasilitas "Outdoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/ONN6vh-fH_eFJO7hBVrwF-N4u7U=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/336194/picture-1474196417.JPG";
     .
@@ -135,7 +122,6 @@ data:14 rdf:type data:kafe;
     data:nama "Hause Rooftop";
     data:alamat "MD Place, Tower 2, Lantai 6. Jl. Setiabudi Selatan No. 7, Setiabudi, Jakarta Selatan";
     data:rating "9/10";
-    data:fasilitas "Outdoor Rooftop, Tempat Parkir, Wifi, Stop Kontak, Fresh Grass, Musholla, Spot Foto";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate, Es Teh Manis, Es Jeruk, Es Mangga";
     data:urlFoto "https://assets-pergikuliner.com/a2ld43c6d09XQ8yMDqctnfg9NpU=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/473647/picture-1487772872.jpg";
     .
@@ -145,7 +131,6 @@ data:15 rdf:type data:kafe;
     data:nama "Kopitia";
     data:alamat "Jl. Jenderal Ahmad Yani No. 30, Jatinegara, Jakarta Timur";
     data:rating "10/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Mie Ayam, Bakso, Bihun Goreng, Chicken Fingeers, Crispy Chicken, Martabak Mie, Singkong Thailang, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/zetMRN6jWREsCTmM-wmC78RdB3E=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1946187/picture-1592491795.jpeg";
     .
@@ -155,7 +140,6 @@ data:16 rdf:type data:kafe;
     data:nama "Onni House";
     data:alamat "Jl. Tanjung Duren Utara V No. 242, Tanjung Duren, Jakarta Barat";
     data:rating "9/10";
-    data:fasilitas "Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla";
     data:menu "Mie Ayam, Mie Yamin, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/09iVZ1CQtuyCrboLFtFpybPNvm8=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1140596/picture-1541572925.jpg";
     .
@@ -165,7 +149,6 @@ data:17 rdf:type data:kafe;
     data:nama "Fistro";
     data:alamat "Jl. Tanjung Duren Raya No. 363, Tanjung Duren, Jakarta Barat";
     data:rating "9/10";
-    data:fasilitas "Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Pempek, Siomay, Batagor, Jus Alpukat, Jus Jeruk, Jus Melon, Sweet Chocolate Cake, Sweet Cheese Cake, Pizza Slice";
     data:urlFoto "https://assets-pergikuliner.com/wuv6VBV4dB5IdX_5jy03arBT3gs=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1898585/picture-1584358057.jpg";
     .
@@ -175,7 +158,6 @@ data:18 rdf:type data:kafe;
     data:nama "Hakuna Matata";
     data:alamat "Jl. Pertengahan No. 5 (Depan MTSN 33), Cijantung, Jakarta Timur";
     data:rating "7/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair,";
     data:menu "Taro Milk Tea, Dalgona Coffee, Fish and Chips, Chicken Strips, Hot Wings, Chicken Nuggets";
     data:urlFoto "https://assets-pergikuliner.com/bh3kDtnlmHRGEbZqbin2Y1GIZlw=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1640868/picture-1571383607.jpg";
     .
@@ -185,7 +167,6 @@ data:19 rdf:type data:kafe;
     data:nama "BitterSweet by Najla";
     data:alamat "Jl. Kalibata Timur Raya No. 31, Kalibata, Jakarta Selatan";
     data:rating "8/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, Beanbag, Musholla, Spot Foto";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/wcTDghFibBQUuQ1LuAUERLANyQI=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1783249/picture-1578570882.jpeg";
     .
@@ -195,7 +176,6 @@ data:20 rdf:type data:kafe;
     data:nama "Hey Beach!";
     data:alamat "Jl. Pluit Permai No. 23, Pluit, Penjaringan, Jakarta Utara";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate, Es Teh Manis, Es Jeruk, Es Mangga";
     data:urlFoto "https://assets-pergikuliner.com/VX0oujNR_12hJ5XF2KMWDtEC5PI=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1828516/picture-1580832648.jpeg";
     .
@@ -205,7 +185,6 @@ data:21 rdf:type data:kafe;
     data:nama "Coffee Tea'se Me";
     data:alamat "Jl. KH Hasyim Ashari No. 44, Roxy, Jakarta Barat";
     data:rating "8/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair";
     data:menu "Mie Ayam, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/0LFpwX3JVoIZniqM-E4hQvq8TtQ=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1894568/picture-1584086501.jpg";
     .
@@ -215,7 +194,6 @@ data:22 rdf:type data:kafe;
     data:nama "Coffee Dia";
     data:alamat "Rumah Segi. Jl. Tanjung Duren Utara V No. 246, Tanjung Duren, Jakarta Barat";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, Beanbag, Musholla, Spot Foto";
     data:menu "Mie Ayam, Mie Yamin, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/QxEP-9FepIgbJ-D2ACJPKdzRZ9E=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1883459/picture-1583503449.JPEG";
     .
@@ -225,7 +203,6 @@ data:23 rdf:type data:kafe;
     data:nama "Olive Tree House of Croissants";
     data:alamat "Komplek Taman Permata Buana, Blok M4 No. 6. Jl. Pulau Sebaru, Puri, Jakarta Barat";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Pempek, Siomay, Batagor, Jus Alpukat, Jus Jeruk, Jus Melon, Sweet Chocolate Cake, Sweet Cheese Cake, Pizza Slice";
     data:urlFoto "https://assets-pergikuliner.com/SMfw6z83Lo9tHbtDKtciZ6LDPQc=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1866962/picture-1582707143.JPG";
     .
@@ -235,7 +212,6 @@ data:24 rdf:type data:kafe;
     data:nama "Requim Coffee House";
     data:alamat "Jl. Benda Raya No. 8A, Kemang, Jakarta Selatan";
     data:rating "7/10";
-    data:fasilitas "Outdoor Rooftop, Tempat Parkir, Wifi, Stop Kontak, Fresh Grass, Musholla, Spot Foto";
     data:menu "Taro Milk Tea, Dalgona Coffee, Fish and Chips, Chicken Strips, Hot Wings, Chicken Nuggets";
     data:urlFoto "https://assets-pergikuliner.com/bLqwgl_O2lfzaXzoypUaj3HgGC4=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1762408/picture-1577281416.jpg";
     .
@@ -245,7 +221,6 @@ data:25 rdf:type data:kafe;
     data:nama "Kiila Kiila Cafe";
     data:alamat "Kemang Kolonie. Jl. Kemang Timur No. 9E, Kemang, Jakarta Selatan";
     data:rating "8/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/FYywY7pye9RzY0YrxrUE_SjEFu4=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/2011298/picture-1599108699.JPG";
     .
@@ -255,7 +230,6 @@ data:26 rdf:type data:kafe;
     data:nama "Umauma Eatery & Shop";
     data:alamat "Jl. Sultan Hasanudin Dalam No. 18, Blok M, Kebayoran Baru, Jakarta Selatan";
     data:rating "9/10";
-    data:fasilitas "Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate, Es Teh Manis, Es Jeruk, Es Mangga";
     data:urlFoto "https://assets-pergikuliner.com/ziE2OvEct6ueW8AF3QQP3F56Ayw=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1570551/picture-1567582075.jpg";
     .
@@ -265,7 +239,6 @@ data:27 rdf:type data:kafe;
     data:nama "Kyo Coffee";
     data:alamat "Jl. Wirajasa Blok ZN No. 1, Makasar, Jakarta Timur";
     data:rating "10/10";
-    data:fasilitas "Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Mie Ayam, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/_1L6AfgJ0YsyqtOCCTuKGxMqwfU=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1985963/picture-1596558681.jpg";
     .
@@ -275,7 +248,6 @@ data:28 rdf:type data:kafe;
     data:nama "Kopi Boleh Juga";
     data:alamat "Jl. Acordion Blok M No. 29, Kelapa Gading, Jakarta Utara";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair,";
     data:menu "Mie Ayam, Mie Yamin, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/8AVrwyfJlj4LLELgWPQEdavBpOM=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1991824/picture-1597205438.jpeg";
     .
@@ -285,7 +257,6 @@ data:29 rdf:type data:kafe;
     data:nama "Eighteen Pies";
     data:alamat "Ruko Crown Golf, Blok D No. 16, Bukit Golf Mediterania. Jl. Marina Indah Raya, Pantai Indah Kapuk, Penjaringan, Jakarta Utara";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair";
     data:menu "Mie Ayam, Mie Yamin, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://assets-pergikuliner.com/2kjQeLue5Qh1r4FruIE4UarNi3c=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1716098/picture-1575090038.JPEG";
     .
@@ -295,7 +266,6 @@ data:30 rdf:type data:kafe;
     data:nama "Koma Kopi Mangat";
     data:alamat "Jl. Bangka XI No. 5, Kemang, Jakarta Selatan";
     data:rating "8/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, Beanbag, Musholla, Spot Foto";
     data:menu "Pempek, Siomay, Batagor, Jus Alpukat, Jus Jeruk, Jus Melon, Sweet Chocolate Cake, Sweet Cheese Cake, Pizza Slice";
     data:urlFoto "https://assets-pergikuliner.com/ARqmfNrWG5jCrb3pki7wuvGGt4k=/286x192/smart/https://assets-pergikuliner.com/uploads/image/picture/1995085/picture-1597652216.JPG";
     .
@@ -305,7 +275,6 @@ data:31 rdf:type data:kafe;
     data:nama "Maple & Oak";
     data:alamat "Jl. HOS. Cokroaminoto No.91, RT.3/RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310";
     data:rating "10/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate, Es Teh Manis, Es Jeruk, Es Mangga";
     data:urlFoto "https://ik.imagekit.io/tvlk/blog/2020/02/21147791_1274493312677860_4590200685047316480_n.jpg?tr=-undefined,dpr-1,w-675";
     .
@@ -315,7 +284,6 @@ data:32 rdf:type data:kafe;
     data:nama "Beau HQ";
     data:alamat "Jl. Cikajang No.29, RT.1/RW.5, Petogogan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12170";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, Beanbag, Musholla, Spot Foto";
     data:menu "Mie Ayam, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://manual.co.id/wp-content/uploads/2016/11/BEAU-Cikajang-Cafe_Cikajang-12.jpg";
     .
@@ -325,7 +293,6 @@ data:33 rdf:type data:kafe;
     data:nama "Woodpecker Coffee";
     data:alamat "Jl. Panglima Polim V No. 23, Jakarta, Indonesia";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Mie Ayam, Mie Yamin, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://manual.co.id/wp-content/uploads/2014/08/Woodpecker-Cafe_Coffee_Panglima-Polim_Common-House-4.jpg";
     .
@@ -335,7 +302,6 @@ data:34 rdf:type data:kafe;
     data:nama "Kopi Manyar";
     data:alamat "Jl. Bintaro Tengah No.14, RT.4/RW.8, Bintaro, Kec. Pesanggrahan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12330";
     data:rating "7/10";
-    data:fasilitas "Outdoor Rooftop, Tempat Parkir, Wifi, Stop Kontak, Fresh Grass, Musholla, Spot Foto";
     data:menu "Pempek, Siomay, Batagor, Jus Alpukat, Jus Jeruk, Jus Melon, Sweet Chocolate Cake, Sweet Cheese Cake, Pizza Slice";
     data:urlFoto "https://b.zmtcdn.com/data/reviews_photos/090/fe2a96fa998822c64b7cdd7e87775090_1532674141.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*";
     .
@@ -345,7 +311,6 @@ data:35 rdf:type data:kafe;
     data:nama "HaloNiko!";
     data:alamat "Jl. Pejaten Barat No. 16A, Jakarta, Indonesia";
     data:rating "8/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Taro Milk Tea, Dalgona Coffee, Fish and Chips, Chicken Strips, Hot Wings, Chicken Nuggets";
     data:urlFoto "https://www.tripjalanjalan.com/wp-content/uploads/2019/03/warung-haloniko-pejaten.jpg";
     .
@@ -355,7 +320,6 @@ data:36 rdf:type data:kafe;
     data:nama "Le Quartier";
     data:alamat "Jl. Gunawarman No.34, RT.5/RW.2, Selong, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12110";
     data:rating "9/10";
-    data:fasilitas "Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://media.tabloidbintang.com/files/thumb/dd40314b6e048468b89cd1f7040cc543.jpg/745";
     .
@@ -365,7 +329,6 @@ data:37 rdf:type data:kafe;
     data:nama "Caribou Coffee";
     data:alamat "Jl. H. R. Rasuna Said No.1, RW.5, Kuningan, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940";
     data:rating "8/10";
-    data:fasilitas "Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto";
     data:menu "Pisang Goreng, Roti Bakar, Siomay, Nachos, Onion Rings, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate, Es Teh Manis, Es Jeruk, Es Mangga";
     data:urlFoto "https://3.bp.blogspot.com/--JbJK6e1tYM/Vm7_G8gCbTI/AAAAAAABIrI/YZ8HpZfEfOs/s1600/CARIBOU%2BCOFFEE-9.JPG";
     .
@@ -375,7 +338,6 @@ data:38 rdf:type data:kafe;
     data:nama "Woot Coffee & Mates";
     data:alamat "Jl. Gunawarman No.77, RT.3/RW.7, Rw. Bar., Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12180";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair";
     data:menu "Mie Ayam, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://blog.airyrooms.com/wp-content/uploads/2018/10/Woot-Coffee-Mates-1024x682.jpg";
     .
@@ -385,7 +347,6 @@ data:39 rdf:type data:kafe;
     data:nama "Ruang Seduh Coffee Shop";
     data:alamat "Jl. Kemang Raya No. 8B, Jakarta, Indonesia";
     data:rating "9/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair";
     data:menu "Mie Ayam, Mie Yamin, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://manual.co.id/wp-content/uploads/2015/12/Ruang-Seduh-Cafe_Kemang-16.jpg";
     .
@@ -395,7 +356,58 @@ data:40 rdf:type data:kafe;
     data:nama "ShopHaus";
     data:alamat "10, Jl. Teuku Cik Ditiro No.36, RW.5, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310";
     data:rating "10/10";
-    data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, Beanbag, Musholla, Spot Foto";
     data:menu "Mie Ayam, Mie Yamin, Bakso, Bihun Goreng, Chicken Fingers, Crispy Chicken, Martabak Mie, Singkong Thailand, Jamur Enoki Goreng, Mie Rebus, Mie Goreng, Hot Chocolate";
     data:urlFoto "https://manual.co.id/wp-content/uploads/2017/01/Shophaus-Menteng-31.jpg";
     .
+
+data:fasilitas1 rdf:type data:fasilitas;
+data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, Beanbag, Musholla, Spot Foto" .
+data:fasilitas2 rdf:type data:fasilitas;
+data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair" .
+data:fasilitas3 rdf:type data:fasilitas;
+data:fasilitas "Outdoor, Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto" .
+data:fasilitas4 rdf:type data:fasilitas;
+data:fasilitas "Indoor, Tempat Parkir, Wifi, Stop Kontak, High Chair, Musholla, Spot Foto" .
+
+data:01 data:hasFacilities data:fasilitas1 .
+data:02 data:hasFacilities data:fasilitas1 .
+data:03 data:hasFacilities data:fasilitas1 .
+data:04 data:hasFacilities data:fasilitas1 .
+data:05 data:hasFacilities data:fasilitas3 .
+data:06 data:hasFacilities data:fasilitas2 .
+data:07 data:hasFacilities data:fasilitas1 .
+data:08 data:hasFacilities data:fasilitas1 .
+data:09 data:hasFacilities data:fasilitas1 .
+data:010 data:hasFacilities data:fasilitas1 .
+data:011 data:hasFacilities data:fasilitas2 .
+data:012 data:hasFacilities data:fasilitas2 .
+data:013 data:hasFacilities data:fasilitas2 .
+data:014 data:hasFacilities data:fasilitas2 .
+data:015 data:hasFacilities data:fasilitas2 .
+data:016 data:hasFacilities data:fasilitas2 .
+data:017 data:hasFacilities data:fasilitas2 .
+data:018 data:hasFacilities data:fasilitas2 .
+data:019 data:hasFacilities data:fasilitas2 .
+data:020 data:hasFacilities data:fasilitas2 .
+data:021 data:hasFacilities data:fasilitas2 .
+data:022 data:hasFacilities data:fasilitas2 .
+data:023 data:hasFacilities data:fasilitas2 .
+data:024 data:hasFacilities data:fasilitas3 .
+data:025 data:hasFacilities data:fasilitas3 .
+data:026 data:hasFacilities data:fasilitas3 .
+data:027 data:hasFacilities data:fasilitas3 .
+data:028 data:hasFacilities data:fasilitas3 .
+data:029 data:hasFacilities data:fasilitas3 .
+data:030 data:hasFacilities data:fasilitas3 .
+data:031 data:hasFacilities data:fasilitas1 .
+data:032 data:hasFacilities data:fasilitas1 .
+data:033 data:hasFacilities data:fasilitas1 .
+data:034 data:hasFacilities data:fasilitas1 .
+data:035 data:hasFacilities data:fasilitas1 .
+data:036 data:hasFacilities data:fasilitas1 .
+data:037 data:hasFacilities data:fasilitas2 .
+data:038 data:hasFacilities data:fasilitas2 .
+data:039 data:hasFacilities data:fasilitas2.
+data:040 data:hasFacilities data:fasilitas2 .
+
+
